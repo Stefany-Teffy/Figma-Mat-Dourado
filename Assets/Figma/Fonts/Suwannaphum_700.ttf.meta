@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2ecd2380af6021d488266b8509351dbb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Suwannaphum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f62b0fae72b16744b899b640e20109e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
