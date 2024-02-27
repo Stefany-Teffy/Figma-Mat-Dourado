@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44800034c1c2af2498c705170feb0613
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubo1: {instanceID: 0}
+  - cubo10: {instanceID: 0}
+  - cubo100: {instanceID: 0}
+  - slot1: {fileID: 2048079752618649299, guid: 5bb03401e172efb42ac74703ab0d2ed2, type: 3}
+  - slot10: {fileID: 6436346550491149207, guid: c44ee29907cb8284b88aa45c0e886b59, type: 3}
+  - slot100: {fileID: 2802858496350611485, guid: d6e8ac00965245344aa5099af9ed0692, type: 3}
+  - slots: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
